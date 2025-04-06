@@ -1,0 +1,8 @@
+flask
+pandas
+numpy
+scikit-learn
+openpyxl
+
+for installation enter pip install (above packages)
+Ex: pip install pandas
